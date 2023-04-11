@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QEo0wriBBjiXLYUHcNReE0rLFHYFBKlgG3OCTklTMox/oFfqWtkIb1Mo/XFbd+cm6Wqc6y7ebm6SZGZ0sA97Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andra\\OneDrive\\Bureau\\matrice-main\\Andras5ti-traitementMatrice\\traitement\\traitement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
