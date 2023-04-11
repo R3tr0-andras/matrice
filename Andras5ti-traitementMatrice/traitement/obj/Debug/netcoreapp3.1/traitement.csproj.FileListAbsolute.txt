@@ -1,5 +1,0 @@
-C:\Users\220672\Desktop\Andras5ti-traitementMatrice\traitement\obj\Debug\netcoreapp3.1\traitement.csproj.AssemblyReference.cache
-C:\Users\220672\Desktop\Andras5ti-traitementMatrice\traitement\obj\Debug\netcoreapp3.1\traitement.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\220672\Desktop\Andras5ti-traitementMatrice\traitement\obj\Debug\netcoreapp3.1\traitement.AssemblyInfoInputs.cache
-C:\Users\220672\Desktop\Andras5ti-traitementMatrice\traitement\obj\Debug\netcoreapp3.1\traitement.AssemblyInfo.cs
-C:\Users\220672\Desktop\Andras5ti-traitementMatrice\traitement\obj\Debug\netcoreapp3.1\traitement.csproj.CoreCompileInputs.cache
